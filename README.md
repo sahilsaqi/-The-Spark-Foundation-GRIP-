@@ -19,20 +19,20 @@ Their Vision Statement : A world of enabled and connected little minds, building
     This is a simple linear regression task as it involves just two variables. Data can be found at http://bit.ly/w-data.
     What will be predicted score if a student study for 9.25 hrs in a day? 
 
-To see the implementation check this link -https://github.com/harshit9665/Prediction-of-Student-Marks-through-Regression
+To see the implementation check this link -https://github.com/sahilsaqi/-The-Spark-Foundation-GRIP-
 
 ## Task 3 - Exploring Unsupervised Machine Learning
 
     From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
 
-To see the implementation check this link - https://github.com/harshit9665/K-Means-Clustering
+To see the implementation check this link - https://github.com/sahilsaqi/-The-Spark-Foundation-GRIP-
 
 ## Task 4 - Exploring Decision Tree Algorithm
 
     For the given 'Iris' dataset, create the Decision Tree classifier and visualize it graphically. 
     The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
-To see the implementation click on this link - https://github.com/harshit9665/Decision-Tree-Classifier--Iris-Dataset
+To see the implementation click on this link - https://github.com/sahilsaqi/-The-Spark-Foundation-GRIP-
 
 
 ## Task # 5 - To explore Business Analytics
@@ -42,13 +42,13 @@ To see the implementation click on this link - https://github.com/harshit9665/De
     out the weak areas where you can work to make more profit. What all business problems you can derive by looking into the
     data? You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
     
-To see the implementation click on this link - https://github.com/harshit9665/Exploratory-Data-Analysis-on-SuperStore-Data
+To see the implementation click on this link -https://github.com/sahilsaqi/-The-Spark-Foundation-GRIP-
 
 
 # Authors
 
-* **Harshit Singh**  - [Github](https://github.com/harshit9665)
-                     - [Linkedin](https://www.linkedin.com/in/harshit-singh-data)
+* **Saqi Hussain kalan**  - [Github] https://github.com/sahilsaqi/-The-Spark-Foundation-GRIP-
+                     - [Linkedin] https://www.linkedin.com/in/saqi-hussain-1455b6181/
                      
 
 
